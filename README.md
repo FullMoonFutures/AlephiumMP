@@ -1,1 +1,1 @@
-# AlephiumMP
+# AMP
